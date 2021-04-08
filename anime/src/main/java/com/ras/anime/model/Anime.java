@@ -13,6 +13,9 @@ public class Anime {
         this.score = score;
     }
 
+    public Anime() {
+    }
+
     // Getters and Setters
     public String getName() {
         return name;
